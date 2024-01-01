@@ -19,7 +19,7 @@ This project focuses on leveraging machine learning techniques to predict heart 
 - Feature Selection & Model Comparison: Utilized techniques like Confusion Matrix, Precision-Recall Curve, and ROC Curve for feature selection and model evaluation.
 - Model Deployment: Constructed a web application using Flask, facilitating users to input attributes and receive heart failure probability estimations.
 
-## Key Findings:
+### Key Findings:
 
 - Identified pivotal predictors of heart failure, including age, ejection fraction, creatinine phosphokinase levels, serum sodium, and comorbid conditions such as diabetes and anemia.
 - Achieved an 80% prediction accuracy using the Gradient Boosting Classifier.
