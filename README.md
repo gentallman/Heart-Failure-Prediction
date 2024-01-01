@@ -1,1 +1,1 @@
-https://github.com/gentallman/Heart-Failure-Prediction/blob/main/dashboard_bg.jpg
+![Dashboard](https://github.com/gentallman/Heart-Failure-Prediction/blob/main/dashboard.png)
