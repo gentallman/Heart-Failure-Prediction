@@ -2,7 +2,8 @@
 
 This project focuses on leveraging machine learning techniques to predict heart failure, a critical health concern that claims millions of lives annually. By analyzing a dataset obtained from the UCI Machine Learning Repository, we employed various machine learning algorithms, visualization tools, and data analytics techniques to understand patterns and indicators leading to heart failure.
 
-![Dashboard](https://github.com/gentallman/Heart-Failure-Prediction/blob/main/dashboard.png)
+![Heart Faiure Diagnostic Analysis Dashboard ](https://github.com/gentallman/Heart-Failure-Prediction/assets/78334851/7df237eb-0b83-44e4-8c67-fc25aabc29c5)
+
 
 ### Key Objectives:
 
