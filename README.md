@@ -1,4 +1,4 @@
-## Heart Failure Prediction Using Machine Learning
+<h1 align="center"> Heart Failure Prediction and Analysis </h1>
 
 This project focuses on leveraging machine learning techniques to predict heart failure, a critical health concern that claims millions of lives annually. By analyzing a dataset obtained from the UCI Machine Learning Repository, we employed various machine learning algorithms, visualization tools, and data analytics techniques to understand patterns and indicators leading to heart failure.
 
