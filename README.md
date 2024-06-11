@@ -25,3 +25,7 @@ This project focuses on leveraging machine learning techniques to predict heart 
 - Identified pivotal predictors of heart failure, including age, ejection fraction, creatinine phosphokinase levels, serum sodium, and comorbid conditions such as diabetes and anemia.
 - Achieved an 80% prediction accuracy using the Gradient Boosting Classifier.
 - Observed a slight male predominance in heart failure risk and identified lifestyle factors like smoking as potential risk amplifiers.
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
