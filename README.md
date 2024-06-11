@@ -26,6 +26,12 @@ This project focuses on leveraging machine learning techniques to predict heart 
 - Achieved an 80% prediction accuracy using the Gradient Boosting Classifier.
 - Observed a slight male predominance in heart failure risk and identified lifestyle factors like smoking as potential risk amplifiers.
 
+## Contact
+
+Author: Smit Rana
+
+LinkedIn: https://www.linkedin.com/in/smit98rana/
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
