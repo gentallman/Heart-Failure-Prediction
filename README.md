@@ -1,5 +1,11 @@
 <h1 align="center"> Heart Failure Prediction and Analysis </h1>
 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTJmNWY2NzEtNTc2NS00ZTEyLWI0NjItNTMzYmI3NzNjNTI5IiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
+  <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/ed21a0ff-f400-4a4d-9a6c-80c76bf137e7" alt="Live Project" width="100">
+</a>
+
+#####
+
 This project focuses on leveraging machine learning techniques to predict heart failure, a critical health concern that claims millions of lives annually. By analyzing a dataset obtained from the UCI Machine Learning Repository, we employed various machine learning algorithms, visualization tools, and data analytics techniques to understand patterns and indicators leading to heart failure.
 
 ![Heart Faiure Diagnostic Analysis Dashboard ](https://github.com/gentallman/Heart-Failure-Prediction/assets/78334851/7df237eb-0b83-44e4-8c67-fc25aabc29c5)
